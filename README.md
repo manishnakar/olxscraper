@@ -1,3 +1,6 @@
+# olxscraper
+My first scraper with python Scrapy
+
 install scrapy
 	sudo -H pip install Scrapy
 
