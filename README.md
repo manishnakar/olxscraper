@@ -19,3 +19,10 @@ Get page info and test
 
 Scrap data in csv or json format
 	scrapy crawl  electronics -o data.csv -t csv
+
+
+ToDoS
+- [x] Simple web crawler
+- [ ] Add single proxy
+- [ ] Add multiple proxies
+- [ ] Deal with captha
