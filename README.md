@@ -25,4 +25,4 @@ ToDoS
 - [x] Simple web crawler
 - [ ] Add single proxy
 - [ ] Add multiple proxies
-- [ ] Deal with captha
+- [ ] Deal with captcha
